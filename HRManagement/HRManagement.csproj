@@ -112,6 +112,8 @@
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>HumanResource.Designer.cs</LastGenOutput>
     </EntityDeploy>
+    <Content Include="images\asc.jpg" />
+    <Content Include="images\desc.jpg" />
     <Content Include="login.aspx" />
     <Content Include="logout.aspx" />
     <Content Include="Models\HumanResource.Context.tt">
